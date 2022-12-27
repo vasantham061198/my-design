@@ -1,0 +1,28 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: white;
+    margin:0;
+    padding: 0;
+}
+/* header */
+header{
+    margin: 0;
+    width:100%;
+    background-color:rgb(153, 205, 235);
+    padding: 10px;
+}
+header ul{
+    padding: 0;
+    list-style: none;
+    text-align: right;
+    padding right: 10px;
+}
+header li{
+    display:inline-block;
+}
+header a{
+    color: rgb(7, 7, 7);
+    text-decoration: none;
+    padding: 10px;
+}
